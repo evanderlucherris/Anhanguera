@@ -1,0 +1,6 @@
+print("Hello World")
+print("Python")
+print("Hello Python Code")
+print(1 + 1)
+print(10 + 10)
+print(100 + 100)
